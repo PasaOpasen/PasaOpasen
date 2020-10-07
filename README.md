@@ -16,3 +16,4 @@ Take a look at
 - 📫 How to reach me: @PasaOpasen (Telegram), qtckpuhdsa@gmail.com 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PasaOpasen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen)](https://github.com/anuraghazra/github-readme-stats)
