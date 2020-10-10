@@ -5,7 +5,7 @@ I am Demetry Pascal, the author of the pentateuch ["Roman disease"](https://gith
 - 🔭 I’m currently working on [this kaggle competition](https://www.kaggle.com/c/lish-moa) and secret optimization algorithms at secter firm 
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**
 
-- 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**
+- 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**, **fitness**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com 
 
 Take a look at: 
