@@ -1,6 +1,7 @@
 <h1 align="center">Hello everyone 👋, I am Demetry Pascal</h1>
 <h3 align="center">the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease), athlete, .NET/Python programmer, Data Scientist, mathmatician</h3>
 
+### the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease), athlete, .NET/Python programmer, Data Scientist, mathmatician
 
 - 🔭 I’m currently working on [this kaggle competition](https://www.kaggle.com/c/lish-moa) and secret optimization algorithms at https://nplanner.ru 
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**
