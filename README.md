@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**
 
 - 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**, **fitness**
-- 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com 
+- 📫 How to reach me: **@PasaOpasen** / **@DimaAnalPunisher** (Telegram), qtckpuhdsa@gmail.com 
 
 Take a look at: 
 * [my primary resume](https://github.com/PasaOpasen/PasaOpasen.github.io)
