@@ -5,7 +5,7 @@
 #### the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease), athlete, .NET/Python programmer, Data Scientist, mathmatician
 
 - 🔭 I’m currently working on 
-  * [this kaggle competition](https://www.kaggle.com/c/rock-paper-scissors)
+  * [this kaggle competition](https://www.kaggle.com/c/rock-paper-scissors) and [this competition](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   * secret optimization algorithms at https://nplanner.ru
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**
