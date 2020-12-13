@@ -14,7 +14,7 @@
   * [this kaggle competition](https://www.kaggle.com/c/rock-paper-scissors) and [this competition](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   * secret optimization algorithms at https://nplanner.ru
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
-- 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**
+- 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **medicine basics**
 
 - 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**, **fitness**, **stretch**
 - 📫 How to reach me: **@PasaOpasen** / **@DimaAnalPunisher** (Telegram), qtckpuhdsa@gmail.com 
@@ -22,7 +22,7 @@
 Take a look at: 
 * [my primary resume](https://github.com/PasaOpasen/PasaOpasen.github.io)
 * [my .NET math library](https://github.com/PasaOpasen/MathClasses)
-* [my GA implementation](https://github.com/PasaOpasen/geneticalgorithm2)
+* [my python GA implementation](https://github.com/PasaOpasen/geneticalgorithm2)
 * [my translator bot in Telegram](https://github.com/PasaOpasen/TranslatorBot)
 * [my Kaggle account](https://www.kaggle.com/demetrypascal)
 * [my lovely programming books](https://github.com/PasaOpasen/ProgrammingBooks)
