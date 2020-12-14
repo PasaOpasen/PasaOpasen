@@ -10,10 +10,11 @@
     * [SimplestSimulatedAnnealing](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
     * [BeehiveMethod](https://github.com/PasaOpasen/BeehiveMethod)
     * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
-    * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-learn-op)
+    * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
   * [this kaggle competition](https://www.kaggle.com/c/rock-paper-scissors) and [this competition](https://www.kaggle.com/c/cassava-leaf-disease-classification)
-  * secret optimization algorithms at https://nplanner.ru
+  * secret AI algorithms at https://nplanner.ru
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
+
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **medicine basics**
 
 - 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**, **fitness**, **stretch**
