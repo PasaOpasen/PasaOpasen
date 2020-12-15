@@ -9,7 +9,7 @@
     * [DiscreteHillClimbing](https://github.com/PasaOpasen/DiscreteHillClimbing)
     * [SimplestSimulatedAnnealing](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
     * [BeehiveMethod](https://github.com/PasaOpasen/BeehiveMethod)
-    * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
+    * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2) [![Downloads](https://pepy.tech/badge/geneticalgorithm2)](https://pepy.tech/project/geneticalgorithm2)
     * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
   * [this kaggle competition](https://www.kaggle.com/c/rock-paper-scissors) and [this competition](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   * secret AI algorithms at https://nplanner.ru
