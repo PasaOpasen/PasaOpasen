@@ -8,7 +8,7 @@
   * my evolutionary algorithms packages:
     * [DiscreteHillClimbing](https://github.com/PasaOpasen/DiscreteHillClimbing)
     * [SimplestSimulatedAnnealing](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
-    * [BeehiveMethod](https://github.com/PasaOpasen/BeehiveMethod)
+    * [BeeHiveOptimization](https://github.com/PasaOpasen/BeehiveMethod)
     * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
     * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
     * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
