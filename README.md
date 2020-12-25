@@ -12,6 +12,7 @@
     * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
     * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
     * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
+    * [cost2fitness](https://github.com/PasaOpasen/cost2fitness)
   * [this kaggle competition](https://www.kaggle.com/c/rock-paper-scissors) and [this competition](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   * secret AI algorithms at https://nplanner.ru
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
