@@ -13,6 +13,9 @@
     * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
     * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
     * [cost2fitness](https://github.com/PasaOpasen/cost2fitness)
+  * other packages:
+    * [truefalsepython](https://github.com/PasaOpasen/true-false-python)
+    * [StemLemPipe](https://github.com/PasaOpasen/Stem-Lem-Pipeline)
   * [this kaggle competition](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   * secret AI algorithms at https://nplanner.ru
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
