@@ -16,6 +16,7 @@
     * [StemLemPipe](https://github.com/PasaOpasen/Stem-Lem-Pipeline)
   * [this kaggle competition](https://www.kaggle.com/c/tabular-playground-series-feb-2021)
   * secret AI algorithms at https://nplanner.ru
+  * [ApRbot](http://aprbot.com)
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
 
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **medicine basics**
