@@ -14,7 +14,6 @@
   * other packages:
     * [truefalsepython](https://github.com/PasaOpasen/true-false-python)
     * [StemLemPipe](https://github.com/PasaOpasen/Stem-Lem-Pipeline)
-  * [this kaggle competition](https://www.kaggle.com/c/tabular-playground-series-feb-2021)
   * secret AI algorithms at [Nutrient Planner](https://nplanner.ru)
   * [ApRbot](http://aprbot.com)
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
