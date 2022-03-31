@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 👋, I am Demetry Pascal</h1>
 
-#### the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease), athlete, .NET/Python programmer, Data Scientist, mathmatician
+#### the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease), athlete, .NET/Python programmer, data scientist, mathmatician
 
 - 🔭 I’m currently working on
   * my evolutionary algorithms packages:
@@ -15,20 +15,20 @@
     * [truefalsepython](https://github.com/PasaOpasen/true-false-python)
     * [StemLemPipe](https://github.com/PasaOpasen/Stem-Lem-Pipeline)
   * secret AI algorithms at [Nutrient Planner](https://nplanner.ru)
-  * [ApRbot](http://aprbot.com)
+  * math algorithms at [ApRbot](http://aprbot.com)
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
 
-- 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **medicine basics**
+- 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **medicine basics**
 
 - 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**, **fitness**, **stretch**
-- 📫 How to reach me: **@PasaOpasen** / **@DimaAnalPunisher** (Telegram), qtckpuhdsa@gmail.com , https://www.instagram.com/ofdegradation/
+- 📫 How to reach me: **@PasaOpasen** / **@D_MANtion** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
 
 Take a look at: 
 * [my primary resume](https://github.com/PasaOpasen/PasaOpasen.github.io)
 * [my .NET math library](https://github.com/PasaOpasen/MathClasses)
 * [my python GA implementation](https://github.com/PasaOpasen/geneticalgorithm2)
 * [my translator bot in Telegram](https://github.com/PasaOpasen/TranslatorBot)
-* [my Kaggle account](https://www.kaggle.com/demetrypascal) ([and](https://www.kaggle.com/demetrypascal2))
+* [my Kaggle accounts](https://www.kaggle.com/demetrypascal) ([and](https://www.kaggle.com/demetrypascal2))
 * [my lovely programming books](https://github.com/PasaOpasen/ProgrammingBooks)
 * [my piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
 
