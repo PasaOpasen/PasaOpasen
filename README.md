@@ -27,7 +27,7 @@ Take a look at:
 * [my primary resume](https://github.com/PasaOpasen/PasaOpasen.github.io)
 * [my .NET math library](https://github.com/PasaOpasen/MathClasses)
 * [my python GA implementation](https://github.com/PasaOpasen/geneticalgorithm2)
-* [my translator bot in Telegram](https://github.com/PasaOpasen/TranslatorBot)
+* [my translator Telegram bot](https://github.com/PasaOpasen/TranslatorBot)
 * [my Kaggle accounts](https://www.kaggle.com/demetrypascal) ([and](https://www.kaggle.com/demetrypascal2))
 * [my lovely programming books](https://github.com/PasaOpasen/ProgrammingBooks)
 * [my piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
