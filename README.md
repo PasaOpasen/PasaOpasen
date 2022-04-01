@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on
   * my evolutionary algorithms packages:
+    * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
+    * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
     * [DiscreteHillClimbing](https://github.com/PasaOpasen/DiscreteHillClimbing)
     * [SimplestSimulatedAnnealing](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
     * [BeeHiveOptimization](https://github.com/PasaOpasen/BeehiveMethod)
-    * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
-    * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
     * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
     * [cost2fitness](https://github.com/PasaOpasen/cost2fitness)
   * other packages:
