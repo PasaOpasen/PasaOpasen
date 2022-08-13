@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **medicine basics**
 
 - 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**, **fitness**, **stretch**
-- 📫 How to reach me: **@PasaOpasen** / **@D_MANtion** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
+- 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
 
 Take a look at: 
 * [my primary resume](https://github.com/PasaOpasen/PasaOpasen.github.io)
