@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **medicine basics**
 
-- 💬 Ask me about **machine learning**, **maths**, **code optimization**, **degeneracy**, **fitness**, **stretch**
+- 💬 Ask me about **machine learning**, **maths**, **code optimization** (mainly acceleration), **degeneracy**, **fitness**, **stretch**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
 
 Take a look at: 
