@@ -33,4 +33,4 @@ Take a look at:
 * [my piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PasaOpasen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=html,pascal,rich_text_format,c,typescript,matlab,jupyternotebook,jupyter&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=html,pascal,rich_text_format,c,typescript,matlab,javascript,jupyter notebook&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
