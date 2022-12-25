@@ -14,8 +14,8 @@
   * other packages:
     * [truefalsepython](https://github.com/PasaOpasen/true-false-python)
     * [StemLemPipe](https://github.com/PasaOpasen/Stem-Lem-Pipeline)
-  * secret AI algorithms at [Nutrient Planner](https://nplanner.ru)
-  * math algorithms at [ApRbot](http://aprbot.com)
+  * AI algorithms at [Nutrient Planner](https://nplanner.ru)
+  * many algorithms at [DreamDocs](http://aprbot.com)
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
 
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **medicine basics**
