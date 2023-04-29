@@ -18,7 +18,7 @@
   * many algorithms at [DreamDocs](http://aprbot.com)
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
 
-- 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **medicine basics**
+- 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **Docker**
 
 - 💬 Ask me about **machine learning**, **maths**, **code optimization** (mainly acceleration), **degeneracy**, **fitness**, **stretch**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
@@ -31,6 +31,7 @@ Take a look at:
 * [my Kaggle accounts](https://www.kaggle.com/demetrypascal) ([and](https://www.kaggle.com/demetrypascal2))
 * [my lovely programming books](https://github.com/PasaOpasen/ProgrammingBooks)
 * [my piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
+* [my DockerHub](https://hub.docker.com/u/pasaopasen)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PasaOpasen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=html,css,pascal,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
