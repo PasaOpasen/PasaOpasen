@@ -34,4 +34,4 @@ Take a look at:
 * [my DockerHub](https://hub.docker.com/u/pasaopasen)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PasaOpasen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=html,css,pascal,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=html,css,scss,pascal,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
