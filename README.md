@@ -33,4 +33,4 @@ Take a look at:
 * [my piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
 * [my DockerHub](https://hub.docker.com/u/pasaopasen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=html,css,scss,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=fortran,html,css,scss,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
