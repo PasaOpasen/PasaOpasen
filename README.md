@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 👋, I am Demetry Pascal</h1>
 
-#### the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2), athlete, Python developer, data scientist, mathmatician
+#### the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2), athlete, DevOps, Python developer, data scientist, mathmatician
 
 - 🔭 I’m currently working on
   * my evolutionary algorithms packages:
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **Docker**
 
-- 💬 Ask me about **machine learning**, **maths**, **code optimization** (mainly acceleration), **degeneracy**, **fitness**, **stretch**
+- 💬 Ask me about **machine learning**, **maths**, **code acceleration**, **degeneracy**, **fitness**, **stretch**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
 
 Take a look at: 
