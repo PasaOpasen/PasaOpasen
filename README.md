@@ -7,6 +7,8 @@
 * mathmatician, data scientist
 
 - 🔭 I’m currently working on
+  * [DreamDocs](http://aprbot.com)
+  * AI algorithms at [Nutrient Planner](https://nplanner.ru)
   * my evolutionary algorithms packages:
     * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
     * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
@@ -15,14 +17,9 @@
     * [BeeHiveOptimization](https://github.com/PasaOpasen/BeehiveMethod)
     * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
     * [cost2fitness](https://github.com/PasaOpasen/cost2fitness)
-  * other packages:
-    * [truefalsepython](https://github.com/PasaOpasen/true-false-python)
-    * [StemLemPipe](https://github.com/PasaOpasen/Stem-Lem-Pipeline)
-  * AI algorithms at [Nutrient Planner](https://nplanner.ru)
-  * many algorithms at [DreamDocs](http://aprbot.com)
   * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
 
-- 🌱 I’m currently learning **machine learning**, **data science**, **maths methods for AI**, **Linux**, **Docker**
+- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**
 
 - 💬 Ask me about **machine learning**, **maths**, **code acceleration**, **degeneracy**, **fitness**, **stretch**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
@@ -37,5 +34,5 @@ Take a look at:
 * [my piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
 * [my DockerHub](https://hub.docker.com/u/pasaopasen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=fortran,html,css,scss,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=fortran,html,css,scss,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
