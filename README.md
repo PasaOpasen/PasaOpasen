@@ -3,8 +3,9 @@
 * **the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2)**
 * **athlete**
 * **DevOps**
-* Python/Bash developer
-* mathmatician, data scientist
+* **Python/Bash developer**
+* **maniac code optimizer**
+* **mathmatician**, data scientist
 
 - 🔭 I’m currently working on
   * [DreamDocs](http://aprbot.com)
