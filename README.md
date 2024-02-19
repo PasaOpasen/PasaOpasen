@@ -11,7 +11,7 @@
   * [DreamDocs](http://aprbot.com)
   * [Nutrient Planner](https://nplanner.ru)
 
-- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**, 
+- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**, Security 
 
 - 💬 Ask me about **Linux**, **Ansible**, **Docker**, ***artificial intelligence**, **computer vision**, **code acceleration**, **degeneracy**, **fitness**, **stretch**, **interval fasting**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
