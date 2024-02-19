@@ -4,25 +4,16 @@
 * **athlete**
 * **DevOps**
 * **Python/Bash developer**
-* **maniac code optimizer**
+* **code acceleration master**
 * **mathmatician**, data scientist
 
 - 🔭 I’m currently working on
   * [DreamDocs](http://aprbot.com)
-  * AI algorithms at [Nutrient Planner](https://nplanner.ru)
-  * my evolutionary algorithms packages:
-    * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
-    * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
-    * [DiscreteHillClimbing](https://github.com/PasaOpasen/DiscreteHillClimbing)
-    * [SimplestSimulatedAnnealing](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
-    * [BeeHiveOptimization](https://github.com/PasaOpasen/BeehiveMethod)
-    * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
-    * [cost2fitness](https://github.com/PasaOpasen/cost2fitness)
-  * [Lambda Wars game](https://github.com/Sandern/lambdawars-game)
+  * [Nutrient Planner](https://nplanner.ru)
 
-- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**
+- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**, 
 
-- 💬 Ask me about **machine learning**, **maths**, **code acceleration**, **degeneracy**, **fitness**, **stretch**
+- 💬 Ask me about **Linux**, **Ansible**, **Docker**, ***artificial intelligence**, **computer vision**, **code acceleration**, **degeneracy**, **fitness**, **stretch**, **interval fasting**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com , https://bio.site/9SR9hX
 
 Take a look at: 
@@ -34,6 +25,14 @@ Take a look at:
 * [my lovely programming books](https://github.com/PasaOpasen/ProgrammingBooks)
 * [my piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
 * [my DockerHub](https://hub.docker.com/u/pasaopasen)
+* my evolutionary algorithms packages:
+    * [geneticalgorithm2](https://github.com/PasaOpasen/geneticalgorithm2)
+    * [OppositionLearningOperators](https://github.com/PasaOpasen/opp-op-pop-init)
+    * [DiscreteHillClimbing](https://github.com/PasaOpasen/DiscreteHillClimbing)
+    * [SimplestSimulatedAnnealing](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
+    * [BeeHiveOptimization](https://github.com/PasaOpasen/BeehiveMethod)
+    * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
+    * [cost2fitness](https://github.com/PasaOpasen/cost2fitness)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=fortran,html,css,scss,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
