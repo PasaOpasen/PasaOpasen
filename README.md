@@ -4,16 +4,17 @@
 * **athlete**
 * **DevOps**
 * **Python/Bash developer**
+* C#/R developer in the past
 * **code acceleration master**
-* **mathmatician**, data scientist
+* **mathmatician**, algorithm designer, data scientist
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working in
   * [DreamDocs](http://aprbot.com)
   * [Nutrient Planner](https://nplanner.ru)
 
-- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**, Security 
+- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**, Cybersecurity 
 
-- 💬 Ask me about **Linux**, **Ansible**, **Docker**, **artificial intelligence**, **computer vision**, **code acceleration**, **degeneracy**, **fitness**, **stretch**, **interval fasting**
+- 💬 Ask me about **Linux**, **Ansible**, **Docker**, **artificial intelligence**, **computer vision**, **code acceleration**, **degeneracy**, **fitness**, **stretch**, **intermittent fasting**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com
 
 Take a look at my: 
