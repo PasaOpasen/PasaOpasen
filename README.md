@@ -1,12 +1,12 @@
 <h1 align="center">Hello everyone 👋, I am Demetry Pascal</h1>
 
-* **the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2)**
-* **athlete**
 * **DevOps**
 * **Python/Bash developer**
 * C#/R developer in the past
 * **code acceleration master**
 * **mathmatician**, algorithm designer, data scientist
+* **athlete**
+* **the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2)**, poet
 
 - 🔭 I’m currently working in
   * [DreamDocs](http://aprbot.com)
