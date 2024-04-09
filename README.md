@@ -2,11 +2,13 @@
 
 * **DevOps**
 * **Python/Bash developer**
-* C#/R developer in the past
+* .NET/R developer in the past
 * **code acceleration master**
-* **mathmatician**, algorithm designer, data scientist
-* **athlete**
-* **the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2)**, poet
+* **mathmatician**, algorithm designer
+* data scientist in the past
+* IT preacher in the past
+* **athlete**, aspiring fitness model
+* **the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2)**, poet, expert on degeneracy 
 
 - 🔭 I’m currently working in
   * [DreamDocs](http://aprbot.com)
