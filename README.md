@@ -30,6 +30,14 @@ Take a look at my:
     * [BeeHiveOptimization](https://github.com/PasaOpasen/BeehiveMethod)
     * [OptimizationTestFunctions](https://github.com/PasaOpasen/OptimizationTestFunctions)
     * [cost2fitness](https://github.com/PasaOpasen/cost2fitness)
+* helpful CLI utils and PyPI packages:
+  * https://github.com/PasaOpasen/toml-union
+  * https://github.com/PasaOpasen/rectangles-text-view-util
+  * https://github.com/PasaOpasen/py-code-cleaner
+  * https://github.com/PasaOpasen/files-equality-checker
+  * https://github.com/PasaOpasen/py-env-parser
+  * https://github.com/PasaOpasen/markdown-table-generator
+  * https://github.com/PasaOpasen/markdown-combiner
 * [translator Telegram bot](https://github.com/PasaOpasen/TranslatorBot) 
 * [Kaggle accounts](https://www.kaggle.com/demetrypascal) ([and](https://www.kaggle.com/demetrypascal2))
 * [lovely programming books](https://github.com/PasaOpasen/ProgrammingBooks)
