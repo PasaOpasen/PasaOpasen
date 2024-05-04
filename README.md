@@ -1,10 +1,10 @@
 <h1 align="center">Hello everyone 👋, I am Demetry Pascal</h1>
 
-* **DevOps**
-* **Python/Bash developer**
-* .NET/R developer in the past
 * **code acceleration master**
+* **Python/Bash developer**
 * **mathmatician**, algorithm designer
+* **DevOps**
+* .NET/R developer in the past
 * data scientist in the past
 * IT preacher in the past
 * **athlete**, aspiring fitness model
@@ -14,7 +14,7 @@
   * [DreamDocs](http://aprbot.com)
   * [Nutrient Planner](https://nplanner.ru)
 
-- 🌱 I’m currently learning **Linux**, **Ansible**, **Docker**, Cybersecurity 
+- 🌱 I’m currently learning **Linux**, **Ansible**, **Podman**, Cybersecurity 
 
 - 💬 Ask me about **Linux**, **Ansible**, **Docker**, **artificial intelligence**, **computer vision**, **code acceleration**, **degeneracy**, **fitness**, **stretch**, **intermittent fasting**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com
