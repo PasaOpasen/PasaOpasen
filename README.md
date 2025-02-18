@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Linux**, **Ansible**, **Podman**, Cybersecurity 
 
-- 💬 Ask me about **Linux**, **Ansible**, **Docker**, **artificial intelligence**, **computer vision**, **code acceleration**, **degeneracy**, **fitness**, **stretch**, **intermittent fasting**
+- 💬 Ask me about **Linux**, **Ansible**, **Docker**, **artificial intelligence**, **computer vision**, **code acceleration**, **degeneracy**, **powerlifting**, **intermittent fasting**
 - 📫 How to reach me: **@PasaOpasen** (Telegram), qtckpuhdsa@gmail.com
 
 Take a look at my: 
