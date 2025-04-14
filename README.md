@@ -2,11 +2,11 @@
 
 * **code acceleration master**
 * **Python/Bash developer**
-* **mathmatician**, algorithm designer
+* **master of mathematics and computer science**, algorithm designer
 * **DevOps**
 * .NET/R developer in the past
 * data scientist in the past
-* IT preacher in the past
+* AI preacher in the past
 * **athlete**, aspiring fitness model
 * **the author of the pentateuch ["Roman disease"](https://github.com/PasaOpasen/RomanDisease2)**, poet, expert on degeneracy 
 
