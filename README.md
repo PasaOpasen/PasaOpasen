@@ -44,6 +44,7 @@ Take a look at my:
 * [Kaggle accounts](https://www.kaggle.com/demetrypascal) ([and](https://www.kaggle.com/demetrypascal2))
 * [lovely programming books](https://github.com/PasaOpasen/ProgrammingBooks)
 * [piano songs](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano)
+* [estimating repeated maximim by multi-repeated maximum calculator](https://dmitrypasko.shinyapps.io/RMbyMRMestimating/) and [appropriate article](https://rpubs.com/DemetryPascal/RMbyMRMrus_2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasaOpasen&hide=fortran,html,css,scss,vba,java,rich%20text%20format,c,typescript,matlab,javascript,jupyter%20notebook&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
